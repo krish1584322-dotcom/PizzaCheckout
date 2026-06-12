@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\SEUIS21MIT28\seuis21mit28\PizzaCheckout\bin\Debug\PizzaCheckout.exe.config
+C:\Users\ASUS\Desktop\SEUIS21MIT28\seuis21mit28\PizzaCheckout\bin\Debug\PizzaCheckout.exe
+C:\Users\ASUS\Desktop\SEUIS21MIT28\seuis21mit28\PizzaCheckout\bin\Debug\PizzaCheckout.pdb
+C:\Users\ASUS\Desktop\SEUIS21MIT28\seuis21mit28\PizzaCheckout\obj\Debug\PizzaCheckout.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\SEUIS21MIT28\seuis21mit28\PizzaCheckout\obj\Debug\PizzaCheckout.Properties.Resources.resources
+C:\Users\ASUS\Desktop\SEUIS21MIT28\seuis21mit28\PizzaCheckout\obj\Debug\PizzaCheckout.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\SEUIS21MIT28\seuis21mit28\PizzaCheckout\obj\Debug\PizzaCheckout.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\SEUIS21MIT28\seuis21mit28\PizzaCheckout\obj\Debug\PizzaCheckout.exe
+C:\Users\ASUS\Desktop\SEUIS21MIT28\seuis21mit28\PizzaCheckout\obj\Debug\PizzaCheckout.pdb
+C:\Users\ASUS\Desktop\SEUIS21MIT28\seuis21mit28\PizzaCheckout\obj\Debug\PizzaCheckout.exe.config
+C:\Users\ASUS\Desktop\SEUIS21MIT28\seuis21mit28\PizzaCheckout\obj\Debug\PizzaCheckout.Form1.resources
